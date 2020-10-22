@@ -6,7 +6,21 @@ function App() {
     <div >
      This is the bootcamp class1
      hello world 
-     <strong>what the fuck are you doing Man, Are you crazy </strong>
+     <br/>
+     <strong>This is the bootcamp project 1 
+       <ul>
+         Created basic React App
+       </ul>
+       <ul>
+         Created repository on Github
+       </ul>
+       <ul>
+         deploy it on surge
+       </ul>
+       <ul>
+         started using CI/CD
+       </ul>
+       </strong>
     </div>
   );
 }
