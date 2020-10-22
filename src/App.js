@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div >
+    <div className="nerd" >
      This is the bootcamp class1
      hello world 
      <br/>
