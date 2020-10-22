@@ -6,6 +6,7 @@ function App() {
     <div >
      This is the bootcamp class1
      hello world 
+     <strong>what the fuck are you doing Man, Are you crazy </strong>
     </div>
   );
 }
