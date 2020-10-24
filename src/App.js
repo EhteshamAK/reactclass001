@@ -9,13 +9,10 @@ function App({name,age}) {
     Mr {name}
     <h2>React Class 2</h2>
     <ol>
-      Props
-    </ol>
-    <ol>
-      State
-    </ol>
-    <ol>
-      Hooks
+    <li> props </li>  
+    <li> State </li>  
+    <li> Hooks </li>  
+
     </ol>
     <ul> Context Api</ul>
     <ul> Reducer</ul>
