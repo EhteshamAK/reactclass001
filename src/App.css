@@ -1,8 +1,12 @@
 .nerd {
   background-color:palegoldenrod;
   font-size: small;
-  border-style: dashed;
   border-color: black;
   font-family:  sans-serif;
-  padding: 20%;
+  text-align: center;
+  font-style:rgba(51, 31, 238, 0.336);
+  width: 300px;
+  border: 15px solid rgb(17, 19, 17);
+  padding: 50px;
+  margin: 20px;
 }
