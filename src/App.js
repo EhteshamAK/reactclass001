@@ -1,26 +1,24 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+function App({name}) {
   return (
     <div className="nerd" >
-     This is the bootcamp class1
-     hello world 
-     <br/>
-     <strong>This is the bootcamp project 1 
-       <ul>
-         Created basic React App
-       </ul>
-       <ul>
-         Created repository on Github
-       </ul>
-       <ul>
-         deploy it on surge
-       </ul>
-       <ul>
-         started using CI/CD
-       </ul>
-       </strong>
+    <strong> Hello {name,age} </strong>
+    Mr {name}
+    <h2>React Class 2</h2>
+    <ol>
+      Props
+    </ol>
+    <ol>
+      State
+    </ol>
+    <ol>
+      Hooks
+    </ol>
+    <ul> Context Api</ul>
+    <ul> Reducer</ul>
+   <strong> Ehtesham age is {age}</strong>
     </div>
   );
 }
