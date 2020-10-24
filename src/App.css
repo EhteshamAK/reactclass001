@@ -5,8 +5,8 @@
   font-family:  sans-serif;
   text-align: center;
   font-style:rgba(51, 31, 238, 0.336);
-  width: 300px;
-  border: 15px solid rgb(17, 19, 17);
-  padding: 50px;
+  width: 100%;
+  border: 10px solid rgb(17, 19, 17);
+  padding: 10px;
   margin: 20px;
 }

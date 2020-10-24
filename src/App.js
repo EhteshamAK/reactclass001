@@ -14,8 +14,15 @@ function App({name,age}) {
     <li> Hooks </li>  
 
     </ol>
-    <ul> Context Api</ul>
-    <ul> Reducer</ul>
+    <br/>
+    <h2> Some Advanced Classes are</h2>
+    <ul>
+      <li> Context API </li>
+      <li> Use Reducer </li>
+      <li> Fetch </li>
+
+    </ul>
+    
    <strong> Ehtesham age is {age}</strong>
     </div>
   );
