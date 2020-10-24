@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
 
-function App({name}) {
+function App({name,age}) {
   return (
     <div className="nerd" >
-    <strong> Hello {name,age} </strong>
+    <strong> Hello {name} </strong>
+    <br/>
     Mr {name}
     <h2>React Class 2</h2>
     <ol>
